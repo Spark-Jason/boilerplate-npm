@@ -1,6 +1,7 @@
 {
-	"author": "Munoh Amos",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Amos Mbah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
